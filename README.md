@@ -7,7 +7,7 @@
 
 ###  
 
-<h3 align="center">   Hi 👋, I’m Adisesh 💻 — Welcome to my Space 🌟  </h3>
+<h3 align="center">   Hi👋, I’m Adisesh 💻 — Welcome to my Space   </h3>
 
 ###  
 <br></br>
