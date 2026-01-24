@@ -174,10 +174,6 @@
 <b>Open to:</b> AI Research • Neural Systems • Intelligent Automation • AI Startups • Hackathons • Open-source • Innovation Labs • Product Teams
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Adisesh05.Adisesh05"/>
-</div>
-
 <!-- AI FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=130&section=footer" width="100%"/>
 
