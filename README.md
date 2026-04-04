@@ -56,16 +56,6 @@
 
 ---
 
-## 📊 GitHub Matrix
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adisesh05&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adisesh05&layout=compact&theme=radical" height="170"/>
-</div>
-
-
----
-
 ## 🎯 Mission Protocol
 
 - Build ethical AI  
