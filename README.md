@@ -1,4 +1,4 @@
-# 🧠 Adisesh | AI Engineer • Neural System Architect
+# 🧠 Adisesh | AI Engineer • Full Stack Developer • Neural System Architect
 
 <!-- AI NEURAL HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Adisesh&fontSize=50&fontAlign=50&fontColor=00FFFF&animation=fadeIn" width="100%"/>
