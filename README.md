@@ -1,5 +1,3 @@
-# 🧠 Adisesh | AI Engineer • Full Stack Developer • Neural System Architect
-
 <!-- AI NEURAL HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Adisesh&fontSize=50&fontAlign=50&fontColor=00FFFF&animation=fadeIn" width="100%"/>
 
@@ -12,164 +10,141 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=750&lines=AI+Engineer;Neural+System+Builder;Python+Developer;Backend+Architect;Intelligent+Automation+Engineer;System+Thinker;Tech+Innovator"/>
 
 <p>
-<b>Designing intelligent systems • Engineering AI solutions • Building scalable neural architectures</b>
+<b>Designing intelligent systems • Engineering AI solutions • Building scalable architectures</b>
 </p>
 
 </div>
 
 ---
 
-## 🧠 Identity Layer
+## 📌 About Me
+- 🚀 Full Stack Developer passionate about building intelligent, real-world applications
+- 🤖 Skilled in AI, Machine Learning, Multi-Agent Architectures, and scalable backend systems
+- ⚡ Experienced with FastAPI, LangChain, Redis, PostgreSQL, and Vector Databases
+- 🧩 Strong problem-solving mindset shaped through competitive programming
+- 🌱 Always learning, building, and exploring new technologies
+- 🎵 Grade 5 Trinity College London performer who enjoys music and cooking outside tech
 
+
+## 🧠 My Focus Areas
+- Full Stack Development
+- Artificial Intelligence & Machine Learning
+- Multi-Agent Systems
+- Backend Development
+- Competitive Programming
+- Data-Driven Applications
+- Cloud & Scalable Systems
+- Problem Solving & System Design
+
+
+## 📊 GitHub Stats & Trophies
 <p align="center">
-<img src="https://img.shields.io/badge/AI-Engineer-00FFFF?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neural-Systems-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Intelligent-Automation-00CED1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Architecture-20B2AA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System-Intelligence-2F4F4F?style=for-the-badge"/>
+  <img src="https://streak-stats.demolab.com/?user=Adisesh05&theme=vue&hide_border=true&cache_seconds=86400" alt="Adisesh05's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Adisesh05&theme=vue&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Adisesh Rao's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Adisesh05&theme=vue&radius=10" alt="Adisesh05's Activity Graph" />
+</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+
 </p>
 
----
-
-## 🤖 Profile
-
-> AI-first engineer  
-> System-level thinker  
-> Neural architecture builder  
-> Intelligent automation designer  
-> Data-driven problem solver  
-> Research-oriented developer  
-> Scalable system engineer  
-
----
-
-## 🚀 AI Systems I Build
-
-- 🧠 Neural AI Systems  
-- 🤖 Intelligent Automation Engines  
-- 🐍 Python AI Backends  
-- ⚙ Cognitive APIs  
-- 🌐 Scalable AI Platforms  
-- 📊 Data Intelligence Systems  
-- 🧬 Learning Architectures  
-- 🛰 Distributed AI Systems  
-
----
-
-## 🎯 Mission Protocol
-
-- Build ethical AI  
-- Engineer scalable intelligence  
-- Design adaptive systems  
-- Create impactful automation  
-- Develop human-centered AI  
-- Innovate responsibly  
-- Build future-ready technology  
-
----
-
-## 🧠 Tech Stack
-
-### 🧪 Languages
+<h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+
 </p>
 
-### 🤖 ML Core
+<h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow,pytorch,opencv,jupyter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
+
 </p>
 
-### 🌐 Backend
+<h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,nextjs"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+
 </p>
 
-### 🗄 Data Systems
+<h3 align="center">DevOps & Cloud</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+
 </p>
 
-### ⚙ Infrastructure
+<h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/Adisesh05">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adisesh05&langs_count=8&layout=compact&theme=vue&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-## 🧪 Research Lab (Active Builds 🚧)
+![Top language](https://stats.pphat.top/languages?username=Adisesh05)
+<br/>
 
-- 🤖 AI Moderation Engine  
-- 🧠 Intelligent Automation Platform  
-- 🏥 Smart Healthcare AI System  
-- 📊 AI Analytics Engine  
-- ⚙ Workflow Automation AI  
-- 🌐 AI SaaS Platform  
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/adisesh-raghavendra-rao-10842528a">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Adisesh_05">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/917339202983">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:adisesh2267@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
 
----
-
-## 🧭 Principles
-
-- Intelligence over automation  
-- Systems over scripts  
-- Ethics over speed  
-- Impact over hype  
-- Learning over ego  
-- Precision over noise  
-- Vision over comfort  
-
----
-
-## 🌐 Connect
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/adisesh-raghavendra-rao-10842528a">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-  <a href="https://x.com/Adisesh_05">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-  </a>
-  <a href="https://www.instagram.com/adisesh__05">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-  </a>
-  <a href="mailto:adisesh2267@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
-  <a href="https://t.me/Adisesh_05">
-    <img src="https://skillicons.dev/icons?i=telegram" height="45"/>
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
----
-
-## 🧠 Thought
-
-<p align="center">
-<i>"Artificial Intelligence should amplify human intelligence — not replace it."</i>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 🚀 Collaboration Zone
-
-<p align="center">
-<b>Open to:</b> AI Research • Neural Systems • Intelligent Automation • AI Startups • Hackathons • Open-source • Innovation Labs • Product Teams
-</p>
-
-<!-- AI FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=130&section=footer" width="100%"/>
-
----
-
-## 🧬 Cognitive Evolution
 
 ```text
 Learner → Developer → AI Engineer → System Architect → Neural Innovator → AI Founder
