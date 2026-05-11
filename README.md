@@ -135,6 +135,48 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
+---
+
+<div align="left">
+
+# 🏆 Achievements
+
+✨ Solved 700+ coding problems across multiple platforms  
+⚡ 1470+ rating on CodeChef  
+🔥 90+ day coding streak on LeetCode, GeeksforGeeks & CodeChef  
+🚀 Built AI, Full Stack & Intelligent Automation projects  
+🧠 Strong foundation in Problem Solving & System Design  
+
+</div>
+
+---
+
+<div align="left">
+
+# 💭 Philosophy
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+```yaml
+quote:
+  "Computers are incredibly fast, accurate, and stupid.
+   Humans are unbelievably slow, inaccurate, and brilliant."
+author:
+  "Albert Einstein"
+```
+</td> </tr> </table> </div> </div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adisesh05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
